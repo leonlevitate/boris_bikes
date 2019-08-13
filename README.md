@@ -39,6 +39,7 @@ rspec
 4. I create a diagram for how the objects use messages to communicate/interact with one another:
 
 Bike <----------working?---------> true/false
+
 DockingStation <---release_bike---> a bike
 
 5. I build a **feature test** for the first user story, and use a REPL such as **IRB** to understand how to interact with the program, classes, methods etc.
